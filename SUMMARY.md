@@ -12,6 +12,7 @@
   * [function create](smart-raspberrypi_1/2020.06.07/function-create.md)
   * [Class](smart-raspberrypi_1/2020.06.07/class.md)
   * [GUI](smart-raspberrypi_1/2020.06.07/gui.md)
+  * [GPIO](smart-raspberrypi_1/2020.06.07/gpio.md)
 
 ## Smart RaspberryPI\#2
 

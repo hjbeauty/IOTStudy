@@ -8,7 +8,7 @@ module  ==  lib
 파일단위로 제공되는 함수 메소드의 묶음
 {% endhint %}
 
-![&#xBA54;&#xC11C;&#xB4DC; &#xC0AC;&#xC6A9;&#xBC29;&#xBC95;](../../.gitbook/assets/image%20%2813%29.png)
+![&#xBA54;&#xC11C;&#xB4DC; &#xC0AC;&#xC6A9;&#xBC29;&#xBC95;](../../.gitbook/assets/image%20%2814%29.png)
 
 {% hint style="info" %}
 module 사용법
@@ -22,9 +22,9 @@ module 사용법
 
 ![import &#xBAA8;&#xB4C8;&#xBA85;](../../.gitbook/assets/image%20%282%29.png)
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
-![&#xBAA8;&#xB4C8;&#xBA85;&#xC744; &#xC0AC;&#xC6A9;&#xD558;&#xC9C0; &#xC54A;&#xACE0; &#xD568;&#xC218;&#xBA85;&#xC744; &#xACE7;&#xB2E4;&#xB85C; &#xC0AC;&#xC6A9;&#xD55C; &#xC608;](../../.gitbook/assets/image%20%289%29.png)
+![&#xBAA8;&#xB4C8;&#xBA85;&#xC744; &#xC0AC;&#xC6A9;&#xD558;&#xC9C0; &#xC54A;&#xACE0; &#xD568;&#xC218;&#xBA85;&#xC744; &#xACE7;&#xB2E4;&#xB85C; &#xC0AC;&#xC6A9;&#xD55C; &#xC608;](../../.gitbook/assets/image%20%2810%29.png)
 
 
 
