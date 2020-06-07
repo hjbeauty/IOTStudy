@@ -4,7 +4,7 @@
 if  ~~~~ elif  ~  else
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 {% hint style="info" %}
 while 
@@ -20,9 +20,9 @@ for
 * **for  변수  in 시퀀스형데이터 :**
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 ## try ~ exception  예외처리 
 
@@ -30,7 +30,7 @@ for
 
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 ![](../../.gitbook/assets/image.png)
 

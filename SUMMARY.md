@@ -9,6 +9,9 @@
 * [2020.06.07](smart-raspberrypi_1/2020.06.07/README.md)
   * [python function method module](smart-raspberrypi_1/2020.06.07/python-function-method-module.md)
   * [conditional op](smart-raspberrypi_1/2020.06.07/conditional-op.md)
+  * [function create](smart-raspberrypi_1/2020.06.07/function-create.md)
+  * [Class](smart-raspberrypi_1/2020.06.07/class.md)
+  * [GUI](smart-raspberrypi_1/2020.06.07/gui.md)
 
 ## Smart RaspberryPI\#2
 
