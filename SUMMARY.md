@@ -13,6 +13,9 @@
   * [Class](smart-raspberrypi_1/2020.06.07/class.md)
   * [GUI](smart-raspberrypi_1/2020.06.07/gui.md)
   * [GPIO\(General Purpose Input/Output\)](smart-raspberrypi_1/2020.06.07/gpio.md)
+  * [LED and switch](smart-raspberrypi_1/2020.06.07/led-and-switch.md)
+  * [switch](smart-raspberrypi_1/2020.06.07/switch.md)
+  * [Interrupt Control](smart-raspberrypi_1/2020.06.07/interrupt-control.md)
 
 ## Smart RaspberryPI\#2
 
