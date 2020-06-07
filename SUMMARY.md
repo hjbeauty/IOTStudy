@@ -6,6 +6,7 @@
 
 * [2020.06.06-1](smart-raspberrypi_1/2020.06.06-1.md)
 * [Python](smart-raspberrypi_1/python.md)
+* [2020.06.07](smart-raspberrypi_1/2020.06.07.md)
 
 ## Smart RaspberryPI\#2
 
