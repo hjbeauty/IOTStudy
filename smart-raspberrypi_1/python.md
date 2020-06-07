@@ -19,7 +19,7 @@ pi@raspberrypi:~/python_test1 $ python3 test1.py
 
 ```
 
-![&#xB77C;&#xC988;&#xBCA0;&#xB9AC;&#xC5D0;&#xC11C; &#xC2E4;&#xD589;&#xD55C; &#xD654;&#xBA74;](../.gitbook/assets/image%20%2826%29.png)
+![&#xB77C;&#xC988;&#xBCA0;&#xB9AC;&#xC5D0;&#xC11C; &#xC2E4;&#xD589;&#xD55C; &#xD654;&#xBA74;](../.gitbook/assets/image%20%2828%29.png)
 
 {% file src="../.gitbook/assets/day1.tar" caption="파이싼실습자료1" %}
 
