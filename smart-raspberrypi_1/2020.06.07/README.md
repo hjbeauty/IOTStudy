@@ -1,6 +1,6 @@
 # 2020.06.07
 
-## 기초파이
+## 파이썬기초
 
 {% file src="../../.gitbook/assets/pdf-3.pdf" caption="raspberrypi교재3" %}
 
